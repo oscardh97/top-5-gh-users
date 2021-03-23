@@ -1,5 +1,4 @@
-import logo from './logo.svg';
-import {Container, Navbar} from 'react-bootstrap'
+import {Container} from 'react-bootstrap'
 import Home from './views/Home'
 import User from './views/User';
 import { Route, Switch } from 'react-router-dom';
