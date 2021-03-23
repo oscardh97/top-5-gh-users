@@ -1,0 +1,12 @@
+.user-list {
+    
+    .user-item:hover {
+        background-color: #2564C5 !important;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+    .user-item {
+        margin-right: 10px;
+        border-radius: 3px;
+        background-color: #3B89FF;
+    }
+}

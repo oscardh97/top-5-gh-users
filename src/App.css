@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+#root .container {
+  width: 100% !important;
+  max-width: 100% !important;
+  padding: 0px !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

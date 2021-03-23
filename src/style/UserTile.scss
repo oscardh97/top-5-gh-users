@@ -1,0 +1,10 @@
+.user-tile {
+    display: inline-flex;
+    padding: 30.5px 70px;
+    width: 100%;
+    .avatar {
+        width: 75px;
+        height: 75px;
+        border-radius: 50%;
+    }
+}
